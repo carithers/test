@@ -1,1 +1,5 @@
-# test
+@startuml
+
+A --> B : hello
+
+@enduml
