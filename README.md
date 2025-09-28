@@ -1,5 +1,6 @@
-@startuml
+```mermaid
+sequenceDiagram
 
-A --> B : hello
+A ->> B : hello
 
-@enduml
+A ->> B,C : start
